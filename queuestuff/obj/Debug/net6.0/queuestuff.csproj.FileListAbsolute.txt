@@ -1,0 +1,15 @@
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.csproj.AssemblyReference.cache
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.AssemblyInfoInputs.cache
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.AssemblyInfo.cs
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.csproj.CoreCompileInputs.cache
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\bin\Debug\net6.0\queuestuff.exe
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\bin\Debug\net6.0\queuestuff.deps.json
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\bin\Debug\net6.0\queuestuff.runtimeconfig.json
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\bin\Debug\net6.0\queuestuff.dll
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\bin\Debug\net6.0\queuestuff.pdb
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.dll
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\refint\queuestuff.dll
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.pdb
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\queuestuff.genruntimeconfig.cache
+C:\Users\GIlleyi\Documents\DataStructures\Project3\queuestuff\obj\Debug\net6.0\ref\queuestuff.dll
